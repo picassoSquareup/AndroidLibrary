@@ -9,3 +9,4 @@ dependencyResolutionManagement {
 rootProject.name = "AndroidLibrary"
 include ':app'
 include ':image-preview'
+include ':Library'
